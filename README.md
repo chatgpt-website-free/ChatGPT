@@ -222,43 +222,6 @@
   <p><strong>结论</strong>：想体验OpenAI原版可选官网，追求便捷本地化建议优先 <strong>ChatGPT 中文镜像站</strong>。</p>
 </div>
 
-<hr>
-
-## 📝 ChatGPT 中文版操作入门
-
-<div class="steps-container">
-  <div class="step">
-    <div class="step-number">1</div>
-    <div class="step-content">
-      <h3>选取推荐站点</h3>
-      <p>如 <a href="https://chat.aibox365.cn">chat.aibox365.cn</a></p>
-    </div>
-  </div>
-  <div class="step">
-    <div class="step-number">2</div>
-    <div class="step-content">
-      <h3>注册登录</h3>
-      <p>支持邮箱或手机号快捷注册</p>
-    </div>
-  </div>
-  <div class="step">
-    <div class="step-number">3</div>
-    <div class="step-content">
-      <h3>挑选所需模型</h3>
-      <p>可根据需求选择 GPT-4o、Claude、Gemini、Grok 等</p>
-    </div>
-  </div>
-  <div class="step">
-    <div class="step-number">4</div>
-    <div class="step-content">
-      <h3>开启对话体验</h3>
-      <p>实现流畅聊天、翻译、写作、办公等多种功能</p>
-    </div>
-  </div>
-</div>
-
-<hr>
-
 ## 💡 ChatGPT 主要应用场景
 
 <div class="applications-grid">
