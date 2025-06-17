@@ -124,9 +124,8 @@
 
 </div>
 
-<div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/0463fee7-4749-40ee-aedc-644340130c97)" alt="ChatGPT中文版使用界面示例" style="max-width:100%; border-radius:8px; margin:20px 0;">
-</div>
+![image](https://github.com/user-attachments/assets/e86deba1-2bd1-4599-bc40-9383527895dc)
+
 
 ## ChatGPT 主要应用场景
 
