@@ -1,4 +1,4 @@
-# ChatGPT 中文体验版 | 2025年国内最全GPT镜像站导航
+![image](https://github.com/user-attachments/assets/e2137c7e-9cf7-4bd9-aaf7-29fdfc9715bd)# ChatGPT 中文体验版 | 2025年国内最全GPT镜像站导航
 
 > **最后更新**: 2025-06-02 - 支持 GPT-4o/o1/o3/o4 的国内免翻墙直连访问
 
@@ -125,7 +125,7 @@
 </div>
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400" alt="ChatGPT中文版使用界面示例" style="max-width:100%; border-radius:8px; margin:20px 0;">
+  <img src="![image](https://github.com/user-attachments/assets/0463fee7-4749-40ee-aedc-644340130c97)" alt="ChatGPT中文版使用界面示例" style="max-width:100%; border-radius:8px; margin:20px 0;">
 </div>
 
 ## ChatGPT 主要应用场景
